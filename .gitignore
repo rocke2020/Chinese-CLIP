@@ -9,7 +9,7 @@ examples/*.txt
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.mdb
 # C extensions
 *.so
 
